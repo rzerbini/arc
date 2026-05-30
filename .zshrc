@@ -19,7 +19,7 @@ prompt fire
 zstyle ':completion:*' menu select
 
 alias ls='ls --color=auto'
-alias la='ls -la --color=auto'
+alias ll='ls -la --color=auto'
 
 source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
