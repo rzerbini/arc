@@ -14,6 +14,7 @@ promptinit
 # End of lines added by compinstall
 
 prompt fire
+#prompt -p ( lista prompts )
 
 # enable interactive selection menu
 zstyle ':completion:*' menu select
